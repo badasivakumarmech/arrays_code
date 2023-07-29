@@ -1,4 +1,4 @@
-/* /* /* /* /* /* /* /* /* /* /* /* #include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
@@ -419,7 +419,7 @@ int main()
             }
         }
     }
-    /* for(i=0; i<n; i++)
+    for(i=0; i<n; i++)
     {
         for(int j=0; j<n; j++)
         {
@@ -481,7 +481,7 @@ int main()
     {
         printf("%d",arr3[i]);
     }
-} */
+} 
 #include <stdio.h>
 int main() {
   int size1, size2, size3;
@@ -530,3 +530,6 @@ int main() {
   }
   return 0;
 }
+
+
+// siva koteswara rao
